@@ -1,32 +1,34 @@
-# Hi, I'm TonyRainforest
+# TonyRainforest
 
-I build AI-assisted tools for learning, research, and scientific-computing workflows.
+AI + Scientific Computing | Agentic learning tools | Research workflow automation
 
-My work sits at the intersection of agentic systems, reproducible validation, and engineering-heavy research practice. I care about tools that make complex work inspectable: clear state, traceable decisions, repeatable checks, and documentation that helps another person continue the work.
+I build tools and workflows that make hard technical work easier to inspect, reproduce, and continue. My current focus is the overlap between AI agents, scientific-computing practice, and documentation-driven engineering.
 
-## What I'm Building Toward
+## Current Direction
 
-- Agentic learning systems that help people study through recall, diagnosis, and mastery gates.
-- Scientific-computing workflows that make numerical experiments easier to reproduce and audit.
-- Research automation that connects code, evidence, documentation, and review loops.
+- Agentic learning systems that use recall, diagnosis, and mastery gates instead of passive chat.
+- Scientific-computing workflows for numerical experiments, validation, and reproducible analysis.
+- Research automation that connects code, evidence, review loops, and durable documentation.
 
-## Technical Focus
+## Technical Stack
 
-- AI agents and LLM workflows
-- Python automation and validation scripts
-- CUDA/GPU scientific computing
-- Numerical simulation and reproducible validation
-- Git, shell, and documentation-heavy engineering
+- AI agents, LLM workflows, prompt/process design
+- Python automation, validation scripts, data-processing tools
+- CUDA/GPU scientific computing and numerical simulation workflows
+- Git, shell, Markdown, and documentation-heavy engineering
+- Reproducible validation, audit trails, and handoff-ready project structure
 
-## Featured Work
+## Public Work
 
-### tutor
+| Project | What it is | What it demonstrates |
+|---|---|---|
+| [`tutor`](https://github.com/YusenZhang0601/tutor) | A file-based AI tutor template for mastery learning, active recall, and spaced repetition. | Agent workflow design, stateful learning systems, validation scripts, privacy boundaries, and reusable project structure. |
 
-`tutor` is a file-based AI tutor template for mastery learning, active recall, and spaced repetition.
+More public research and tooling projects will be added here as they are cleaned, documented, and safe to share.
 
-It gives an AI agent a structured learning protocol, review state, validation scripts, and clear boundaries between reusable method and personal study data.
+## How I Work
 
-Repository: https://github.com/YusenZhang0601/tutor
+I like systems where the important state is visible, the assumptions are written down, and the next person can verify what happened without guessing. That usually means small scripts, clear status files, reproducible checks, and documentation that is part of the engineering surface rather than an afterthought.
 
 ## Contact
 
