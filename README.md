@@ -22,6 +22,7 @@ I build tools and workflows that make hard technical work easier to inspect, rep
 
 | Project | What it is | What it demonstrates |
 |---|---|---|
+| [`ContextCanopy`](https://github.com/YusenZhang0601/context-canopy) | A local-first personal AI substrate that gives multiple agents shared memory, identity, goals, rules, and evidence. | Multi-Agent continuity, Markdown knowledge graphs, MCP, evidence governance, transactional writes, and deterministic validation. |
 | [`tutor`](https://github.com/YusenZhang0601/tutor) | A file-based AI tutor template for mastery learning, active recall, and spaced repetition. | Agent workflow design, stateful learning systems, validation scripts, privacy boundaries, and reusable project structure. |
 
 More public research and tooling projects will be added here as they are cleaned, documented, and safe to share.
