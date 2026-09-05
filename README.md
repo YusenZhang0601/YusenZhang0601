@@ -2,13 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/YusenZhang0601/context-canopy/main/docs/assets/tony-system-builder-banner.png" alt="TonyRainforest — System Builder" width="100%" />
 
-<br />
+<h2>Coastal Engineering × Scientific Computing × AI-native Research Engineering</h2>
 
-# TonyRainforest
-
-### Coastal Engineering × Scientific Computing × AI-native Research Engineering
-
-**Research-first. Evidence-bound. AI-leveraged.**
+<p><strong>Research-first · Evidence-bound · AI-leveraged</strong></p>
 
 <p>
   <img src="https://img.shields.io/badge/Coastal_Engineering-Research-C7A25B?style=flat-square&labelColor=111111" alt="Coastal Engineering" />
@@ -20,7 +16,7 @@
 
 </div>
 
-> I work on **computational coastal engineering and scientific computing**, while building AI-native research systems that make difficult technical work more **inspectable, reproducible, evidence-driven, and scalable**.
+> **Computational coastal engineering, GPU/HPC, and AI-native research systems** — built around verification, reproducibility, and defensible evidence.
 
 ---
 
