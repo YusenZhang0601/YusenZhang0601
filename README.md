@@ -1,4 +1,4 @@
-# TonyRainforest
+# Tony Rainforest
 
 **Computational Coastal Engineering · Scientific Computing · Research Software**
 
