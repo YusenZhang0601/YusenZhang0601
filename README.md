@@ -60,6 +60,10 @@ My research centers on **waves interacting with coastal and porous structures**,
 
 **What it demonstrates:** cross-agent continuity, MCP integration, transactional writes and rollback, deterministic validation, explicit authority boundaries, and an isolated Claude → Codex handoff proof.
 
+**Reference corpus inclusion:** ContextCanopy v1.1.0 was selected for the [XERJ Corpus Hub](https://hub.xerj.org/corpus/yusenzhang0601--context-canopy) in October 2026, pinned to commit `6f6616d` under MIT with author attribution.
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/YusenZhang0601/badge.svg)](https://hub.xerj.org/contributors/YusenZhang0601)
+
 **Explore:** [Project](https://github.com/YusenZhang0601/context-canopy) · [Proof](https://github.com/YusenZhang0601/context-canopy#proof-not-promise) · [CI](https://github.com/YusenZhang0601/context-canopy/actions)
 
 ### 🎓 [Tutor](https://github.com/YusenZhang0601/tutor)
@@ -75,13 +79,21 @@ I prefer contribution work that starts from a reproducible failure and ends with
 | Upstream project | Contribution | Status |
 |---|---|---|
 | **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | Prevented destructive context compression after degraded empty provider responses; substantive fix from [#94531](https://github.com/NousResearch/hermes-agent/pull/94531) was incorporated through [#94606](https://github.com/NousResearch/hermes-agent/pull/94606) with authorship preserved. | ✅ Incorporated upstream |
-| **[Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)** | Fixed 401 token recovery, concurrent poll coordination, and transient availability-state cleanup with regression coverage in [#305](https://github.com/Draculabo/AntigravityManager/pull/305). | ✅ Merged upstream |
+| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | Proposed configuration-preservation and syntax-validation safeguards in [#95418](https://github.com/NousResearch/hermes-agent/pull/95418); the maintainer credited and reimplemented both designs in merged [#115757](https://github.com/NousResearch/hermes-agent/pull/115757). | ✅ Design adopted upstream |
+| **[Draculabo/AntigravityManager](https://github.com/Draculabo/AntigravityManager)** | Fixed 401 token recovery, concurrent poll coordination, and transient availability-state cleanup with regression coverage in [#305](https://github.com/Draculabo/AntigravityManager/pull/305), plus isolation of malformed account records in [#246](https://github.com/Draculabo/AntigravityManager/pull/246). | ✅ Merged upstream |
 
 <details>
 <summary><strong>Ongoing upstream contributions</strong></summary>
 
-- **[OpenClaw #138750](https://github.com/openclaw/openclaw/pull/138750)** — preserving the dotenv assignment backing a newly configured environment SecretRef. **Open / not merged** as last checked 2026-09-05.
-- **[CC Switch #6791](https://github.com/farion1231/cc-switch/pull/6791)** — routing takeover for declared long-context model markers. **Open / not merged** as last checked 2026-09-05.
+- **[OpenClaw #138750](https://github.com/openclaw/openclaw/pull/138750)** — preserving the dotenv assignment backing a newly configured environment SecretRef. **Open / not merged** as last checked 2026-10-31.
+- **[OpenCode #58301](https://github.com/anomalyco/opencode/pull/58301)** — keeping completion notifications alive after worktree cleanup. **Open / not merged** as last checked 2026-10-31.
+
+</details>
+
+<details>
+<summary><strong>Closed proposals</strong></summary>
+
+- **[CC Switch #6791](https://github.com/farion1231/cc-switch/pull/6791)** — routing takeover for declared long-context model markers. **Closed without merge** on 2026-10-22.
 
 </details>
 
